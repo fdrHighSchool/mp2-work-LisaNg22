@@ -32,9 +32,9 @@ class Main {
     for(int row = 0; row < size; row++){
       for (int column = 0;column <= row; column++){ 
         System.out.print("* ");
-      } //end of column for loop (square)
+      } //end of column for loop (right triangle)
       System.out.println(" ");
-    }  //end of row for loop (square)
+    }  //end of row for loop (right triangle)
   } // end of rightTriangle method
   
 } // end of main class

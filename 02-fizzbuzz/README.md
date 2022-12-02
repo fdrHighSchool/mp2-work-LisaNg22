@@ -21,4 +21,4 @@
 | F  | F  |     F    |       T      |  T | T  |    T     |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * **YOUR WRITING HERE**
+  * DeMorgan's law states that a mathematical equation is somehow relateD to it's opposite. This was proved in the chart above by !(P||Q) having the same outcome as !P && !Q which is False, False, False, True. 

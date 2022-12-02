@@ -2,9 +2,9 @@
 ## fall22-mp2-work
 
 
-### Last Name:  
-### First Name:
-### GitHub Username:
+### Last Name: Ng
+### First Name: Lisa
+### GitHub Username:LisaNg22
 
 ---
 #### General Workflow:

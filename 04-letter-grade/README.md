@@ -2,8 +2,8 @@
 #### Respond to the following:
 
 1. Write a plan for the following extension:
-  * Attach a "+" on their grade if the grade ends in a 7, 8 or 9 (eg: 78 -> C+, 89 -> B+)
-  * Attach a "-" on their grade if the grade ends in a 0, 1 or 2 (eg: 92 -> A-, 61 -> D-)
+  * `Attach a "+" on their grade if the grade ends in a 7, 8 or 9 (eg: 78 -> C+, 89 -> B+)`
+  * `Attach a "-" on their grade if the grade ends in a 0, 1 or 2 (eg: 92 -> A-, 61 -> D-)`
 
   * I will first create a variable that is called num and is an int. This variable will hold the value of the grade we are checking. To only focus on the last digit of the grade we could do num % 10. This will help us isolate the ones digit. After we could use three if statements to determine whether we should add a +, a -, or just leave it as a letter grade.
 

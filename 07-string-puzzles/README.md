@@ -12,7 +12,7 @@
     * It will return a number, representing the index of str when it first occurs. However if str is not found in the String it will return a number of -1.
 
   * `.equals(str)`
-    *It checks whether if the String insidethe parentheses is equal to the String being held in the variable.
+    * It checks whether if the String inside the parentheses is equal to the String being held in the variable.
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:

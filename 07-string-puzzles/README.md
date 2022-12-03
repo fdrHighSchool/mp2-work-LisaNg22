@@ -9,7 +9,7 @@
     * It will extract a part of a String from index a to but not including index b.
 
   * `.indexOf(str)`
-    * It will return a number, representing the index of str when it first occurs. Hoever if str is not found in the String it will return a number of -1.
+    * It will return a number, representing the index of str when it first occurs. However if str is not found in the String it will return a number of -1.
 
   * `.equals(str)`
     *It checks whether if the String insidethe parentheses is equal to the String being held in the variable.
